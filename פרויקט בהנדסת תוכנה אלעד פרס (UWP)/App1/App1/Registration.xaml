@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="App1.Registration"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Canvas>
+        <TextBlock Name="t1" Canvas.Left="100" FontSize="35" Text="UserName:" Canvas.Top="109" Height="65" TextAlignment="Center" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch"/>
+        <TextBox Canvas.Top="100" Name="UNameText" Canvas.Left="350" FontSize="35" Width="300" Height="65"></TextBox>
+        <TextBlock Text="Password:" Height="65" Width="150" FontSize="35" Canvas.Left="100" Canvas.Top="200"/>
+        <PasswordBox Canvas.Top="200" Canvas.Left="350" Name="PWText" FontSize="35" Width="300" Height="65"></PasswordBox>
+        <TextBlock Text="firstName:" Height="65" Width="150" FontSize="35" Canvas.Left="100" Canvas.Top="300"/>
+        <TextBox Canvas.Top="300" Canvas.Left="350" Name="fNameText" FontSize="35" Width="300" Height="65"></TextBox>
+        <TextBlock Text="lastName:" Height="65" Width="150" FontSize="35" Canvas.Left="100" Canvas.Top="400"/>
+        <TextBox Canvas.Top="400" Canvas.Left="350" Name="lNameText" FontSize="35" Width="300" Height="65"></TextBox>
+        <Button Name="regButton" Width="150" Height="75" Canvas.Left="350" Canvas.Top="800" FontSize="35" Click="RegButton_Click">Register</Button>
+        
+        <Button Name="backButton" Width="150" Height="75" Canvas.Top="900" Canvas.Left="100" FontSize="35">Back</Button>
+
+    </Canvas>
+</Page>

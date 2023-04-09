@@ -1,0 +1,246 @@
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll.config
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.pdb
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe.config
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.rsp
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe.config
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.rsp
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Console.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.rsp
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\תלמידים\Desktop\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\press\OneDrive\Documents\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll.config
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\WebApplication1.pdb
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.exe.config
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csc.rsp
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.exe.config
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\csi.rsp
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Console.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\vbc.rsp
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\פרויקט בהנדסת תוכנה יב\פרויקט בהנדסת תוכנה אלעד פרס (UWP)\App1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
